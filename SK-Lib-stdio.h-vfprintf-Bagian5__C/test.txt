@@ -1,0 +1,3 @@
+Calling with 1 variable argument.
+Calling with 2 variable arguments.
+Calling with 3 variable arguments.
